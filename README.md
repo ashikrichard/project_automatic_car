@@ -16,3 +16,10 @@ Developing:-
   step_4: fix the servo motor in front of the car.
   step_5: fix the ultrasonic sensor on the servo motor for the rotation.
   step_6: fix the nodemcu in the car.
+  step_7: connect the driver module and ultrasonic sensor to nodemcu using connecting wire.
+  step_8: upload the code given.
+  step_9: after uploading, press the reset button in the nodemcu for the better work.
+  step_10: now leave it in the ground and check whether it is working properly.
+  ***********************************************
+  Definition:-
+  This car will identify the near by object and it will avoid the hitting and there is no way to hit any object.
