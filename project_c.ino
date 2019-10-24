@@ -1,3 +1,5 @@
+//code for automatic car
+
 #include<Servo.h>
 
 int echo=0;
