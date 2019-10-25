@@ -1,4 +1,4 @@
-//code for automatic car
+
 
 #include<Servo.h>
 
