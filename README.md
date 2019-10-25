@@ -22,4 +22,4 @@ Developing:-
   step_10: now leave it in the ground and check whether it is working properly.
   ***********************************************
   Definition:-
-  This car will identify the near by object and it will avoid the hitting and there is no way to hit any object.
+  The car will detect the abobects around and it wont hit any object in it's way it'll change the direction in case of any object in front of it.
